@@ -1,0 +1,3 @@
+// Admin layout and pages go here
+// Route group: (admin) - role-gated, requires admin role
+export {}

@@ -1,0 +1,3 @@
+// Authenticated user pages go here
+// Route group: (user) - requires active subscription
+export {}

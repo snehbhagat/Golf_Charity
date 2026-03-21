@@ -1,0 +1,3 @@
+// API routes go here
+// All API endpoints live under /app/api/
+export {}
